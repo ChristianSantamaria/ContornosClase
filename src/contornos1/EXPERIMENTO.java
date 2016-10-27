@@ -10,5 +10,6 @@ package contornos1;
  * @author csantamariacameselle
  */
 public class EXPERIMENTO {
+    float commit2;
     
 }

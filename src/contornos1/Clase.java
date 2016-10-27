@@ -11,4 +11,8 @@ package contornos1;
  */
 public class Clase {
     
+    public Clase(){
+        
+    }
+    
 }
